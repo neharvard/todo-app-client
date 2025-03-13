@@ -33,7 +33,6 @@
 
             <div class="mb-4">
                 <NuxtLink to="/auth/forgotPass" class="text-sm underline">Forgot your password?</NuxtLink>
-                <!-- <a href="#" class="text-sm underline">Forgot your password?</a> -->
             </div>
 
             <button type="submit" class="w-full bg-black text-white py-3 mb-4">
